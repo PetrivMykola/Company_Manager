@@ -1,0 +1,7 @@
+com\petriv\companiesmanager\controller\CompanyController.class
+com\petriv\companiesmanager\CompaniesEntity.class
+com\petriv\companiesmanager\dao\CompanyDao.class
+com\petriv\companiesmanager\service\CompanyServiceImpl.class
+com\petriv\companiesmanager\dao\CompanyDaoImpl.class
+com\petriv\companiesmanager\service\CompanyService.class
+com\petriv\companiesmanager\model\Company.class
